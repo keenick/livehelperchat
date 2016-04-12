@@ -59,6 +59,9 @@ switch ((int)$Params['user_parameters']['step_id']) {
 		if (!is_writable("var/storagetheme"))
 	       $Errors[] = "var/storagetheme is not writable";
 
+		if (!is_writable("var/storageadmintheme"))
+	       $Errors[] = "var/storageadmintheme is not writable";
+
 		if (!extension_loaded ('pdo_mysql' ))
 	       $Errors[] = "php-pdo extension not detected. Please install php extension";
 		
@@ -318,6 +321,7 @@ switch ((int)$Params['user_parameters']['step_id']) {
 				  KEY `unanswered_chat` (`unanswered_chat`),
 				  KEY `online_user_id` (`online_user_id`),
 				  KEY `dep_id` (`dep_id`),
+				  KEY `product_id` (`product_id`),
 				  KEY `has_unread_messages_dep_id_id` (`has_unread_messages`,`dep_id`,`id`),
 				  KEY `status_dep_id_id` (`status`,`dep_id`,`id`),
         	   	  KEY `status_dep_id_priority_id` (`status`,`dep_id`,`priority`,`id`),
@@ -463,6 +467,17 @@ switch ((int)$Params['user_parameters']['step_id']) {
         	       `id` int(11) NOT NULL AUTO_INCREMENT,
         	       `name` varchar(250) NOT NULL,
         	       `max_stars` int(11) NOT NULL,
+        	       PRIMARY KEY (`id`)
+        	   ) DEFAULT CHARSET=utf8");
+
+        	   $db->query("CREATE TABLE `lh_admin_theme` (
+        	       `id` int(11) NOT NULL AUTO_INCREMENT,
+        	       `name` varchar(100) NOT NULL,
+        	       `static_content` longtext NOT NULL,
+        	       `static_js_content` longtext NOT NULL,
+        	       `static_css_content` longtext NOT NULL,
+        	       `header_content` text NOT NULL,
+        	       `header_css` text NOT NULL,
         	       PRIMARY KEY (`id`)
         	   ) DEFAULT CHARSET=utf8");
 
@@ -891,7 +906,7 @@ switch ((int)$Params['user_parameters']['step_id']) {
                 ('accept_tos_link', '#', 0, 'Change to your site Terms of Service', 0),
                 ('hide_button_dropdown', '0', 0, 'Hide close button in dropdown', 0),
                 ('on_close_exit_chat', '0', 0, 'On chat close exit chat', 0),
-                ('product_enabled_module','0','0','Product module is enabled', '0'),
+                ('product_enabled_module','0','0','Product module is enabled', '1'),
                 ('paidchat_data','','0','Paid chat configuration','1'),
                 ('file_configuration',	'a:7:{i:0;b:0;s:5:\"ft_op\";s:43:\"gif|jpe?g|png|zip|rar|xls|doc|docx|xlsx|pdf\";s:5:\"ft_us\";s:26:\"gif|jpe?g|png|doc|docx|pdf\";s:6:\"fs_max\";i:2048;s:18:\"active_user_upload\";b:0;s:16:\"active_op_upload\";b:1;s:19:\"active_admin_upload\";b:1;}',	0,	'Files configuration item',	1),
                 ('accept_chat_link_timeout',	'300',	0,	'How many seconds chat accept link is valid. Set 0 to force login all the time manually.',	0),
@@ -913,6 +928,7 @@ switch ((int)$Params['user_parameters']['step_id']) {
                 ('allow_reopen_closed','1', 0, 'Allow user to reopen closed chats?', '0'),
                 ('reopen_as_new','1', 0, 'Reopen closed chat as new? Otherwise it will be reopened as active.', '0'),
                 ('default_theme_id','0', 0, 'Default theme ID.', '1'),  
+                ('default_admin_theme_id','0', 0, 'Default admin theme ID', '1'),  
                 ('translation_data',	'a:6:{i:0;b:0;s:19:\"translation_handler\";s:4:\"bing\";s:19:\"enable_translations\";b:0;s:14:\"bing_client_id\";s:0:\"\";s:18:\"bing_client_secret\";s:0:\"\";s:14:\"google_api_key\";s:0:\"\";}',	0,	'Translation data',	1),              
                 ('disable_html5_storage','1',0,'Disable HMTL5 storage, check it if your site is switching between http and https', '0'),
                 ('automatically_reopen_chat','1',0,'Automatically reopen chat on widget open', '0'),
@@ -1169,6 +1185,7 @@ switch ((int)$Params['user_parameters']['step_id']) {
                   `filename` varchar(200) NOT NULL,
                   `job_title` varchar(100) NOT NULL,
                   `departments_ids` varchar(100) NOT NULL,
+                  `chat_nickname` varchar(100) NOT NULL,
                   `xmpp_username` varchar(200) NOT NULL,
                   `session_id` varchar(40) NOT NULL,
                   `skype` varchar(50) NOT NULL,
@@ -1241,6 +1258,17 @@ switch ((int)$Params['user_parameters']['step_id']) {
 				 `mtime` int(11) NOT NULL,
 				 PRIMARY KEY (`id`)
 				) DEFAULT CHARSET=utf8;");
+                
+                // API table
+                $db->query("CREATE TABLE IF NOT EXISTS `lh_abstract_rest_api_key` (
+                    `id` int(11) NOT NULL AUTO_INCREMENT,
+                    `api_key` varchar(50) NOT NULL,
+                    `user_id` int(11) NOT NULL,
+                    `active` int(11) NOT NULL DEFAULT '0',
+                    PRIMARY KEY (`id`),
+                    KEY `api_key` (`api_key`),
+                    KEY `user_id` (`user_id`)
+                ) DEFAULT CHARSET=utf8;");
 
                 // Chat messages
                 $db->query("CREATE TABLE IF NOT EXISTS `lh_msg` (

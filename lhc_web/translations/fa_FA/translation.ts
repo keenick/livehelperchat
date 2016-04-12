@@ -26,6 +26,38 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Product module is enabled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>How many days voting widget should not be expanded after last show</source>
       <translation>چند روز بعد از آخرین نمایش، ابزارک رأی گیری باز نشود؟</translation>
     </message>
@@ -411,6 +443,10 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Disabled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Name</source>
       <translation>نام</translation>
     </message>
@@ -705,16 +741,16 @@
       <translation>فعال شده</translation>
     </message>
     <message>
+      <source>Department</source>
+      <translation>دپارتمان</translation>
+    </message>
+    <message>
       <source>Language, leave empty for all. E.g lit, rus, ger etc...</source>
       <translation>انتخاب زبان</translation>
     </message>
     <message>
       <source>Position</source>
       <translation>موقعیت</translation>
-    </message>
-    <message>
-      <source>Department</source>
-      <translation>دپارتمان</translation>
     </message>
     <message>
       <source>Wait message. Visible when users starts chat and is waiting for someone to accept a chat.</source>
@@ -1091,6 +1127,14 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Show product selection based on selected departments</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Minimize action, applies only if status widget is at the bottom</source>
       <translation>عملیات کمینه کردن، فقط زمانی اعمال می شود که ابزارک وضعیت در پایین صفحه است</translation>
     </message>
@@ -1157,6 +1201,18 @@
     <message>
       <source>System configuration</source>
       <translation>تنظیمات سیستم</translation>
+    </message>
+    <message>
+      <source>Chat expired</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Invalid hash</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Chat was removed</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -1833,6 +1889,10 @@
       <translation>دپارتمان</translation>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Country</source>
       <translation>کشور</translation>
     </message>
@@ -2190,6 +2250,10 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Sort</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Wait time</source>
       <translation type="unfinished"/>
     </message>
@@ -2386,6 +2450,14 @@
       <translation>سوالات خود را با ما در میان بگذارید.</translation>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Choose a product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Type your message here and hit enter to send...</source>
       <translation>پیام خود را اینجا وارد کنید و برای ارسال دکمه enter را بزنید ...</translation>
     </message>
@@ -2478,6 +2550,14 @@
       <translation>فایل نامعتبر است</translation>
     </message>
     <message>
+      <source>Could not find a product!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please choose a product!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Please choose</source>
       <translation type="unfinished"/>
     </message>
@@ -2492,6 +2572,10 @@
     <message>
       <source>is required</source>
       <translation>الزامی است</translation>
+    </message>
+    <message>
+      <source>Could not decrypt data!</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Your request was not processed as expected - but don&apos;t worry it was not your fault. Please re-submit your request. If you experience the same issue you will need to contact us via other means.</source>
@@ -3526,6 +3610,10 @@
       <translation>تعمیر و نگهداری</translation>
     </message>
     <message>
+      <source>Paid chat configuration</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Update information</source>
       <translation>به روزرسانی اطلاعات</translation>
     </message>
@@ -3534,8 +3622,16 @@
       <translation>دعوت به چت</translation>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Questionary embed code</source>
       <translation>کد داخلی پرسش نامه</translation>
+    </message>
+    <message>
+      <source>Rest API</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Start chat form settings</source>
@@ -3853,6 +3949,10 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Search</source>
       <translation>جستجو</translation>
     </message>
@@ -3875,6 +3975,10 @@
     <message>
       <source>Select user</source>
       <translation>انتخاب کاربر</translation>
+    </message>
+    <message>
+      <source>Select product</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Type to search</source>
@@ -3985,6 +4089,10 @@
     </message>
     <message>
       <source>Hide disabled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Department</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -4321,6 +4429,22 @@
       <translation>ارتفاع پیام کاربر اولیه بر حسب پیکسل</translation>
     </message>
     <message>
+      <source>Encryption key, min length 40</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Additional encryption key, min length 40</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Minimum 40 characters for encryption key!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Minimum 40 characters for additional encryption key!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Please choose at least one field for a popup</source>
       <translation>لطفا حداقل یک فیلد برای پنچره popup انتخاب کنید</translation>
     </message>
@@ -4340,18 +4464,6 @@
       <translation>آمار</translation>
     </message>
     <message>
-      <source>Chats statistic</source>
-      <translation>آمار چت ها</translation>
-    </message>
-    <message>
-      <source>Total statistic</source>
-      <translation>آمار کلی</translation>
-    </message>
-    <message>
-      <source>Last 24 hours statistic</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <source>User</source>
       <translation>کاربر</translation>
     </message>
@@ -4360,16 +4472,8 @@
       <translation>شست بالا</translation>
     </message>
     <message>
-      <source>Number of Thumbs Up</source>
-      <translation>تعداد شست بالا</translation>
-    </message>
-    <message>
       <source>Thumbs down</source>
       <translation>شست پایین</translation>
-    </message>
-    <message>
-      <source>Number of Thumbs Down</source>
-      <translation>تعداد شست پایین</translation>
     </message>
     <message>
       <source>Country</source>
@@ -4378,10 +4482,6 @@
     <message>
       <source>Chats</source>
       <translation>چت ها</translation>
-    </message>
-    <message>
-      <source>Number of chats by country</source>
-      <translation>تعداد چت ها بر اساس کشور</translation>
     </message>
     <message>
       <source>Average in seconds</source>
@@ -4416,24 +4516,12 @@
       <translation>منتظر</translation>
     </message>
     <message>
-      <source>Chats number by statuses</source>
-      <translation>تعداد چت ها بر اساس وضعیت</translation>
-    </message>
-    <message>
       <source>Number</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Unanswered chats numbers</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <source>Time</source>
       <translation>زمان</translation>
-    </message>
-    <message>
-      <source>AVG wait time in seconds, max 10 mininutes</source>
-      <translation>زمان انتظار AVG بر حسب ثانیه، حداکثر 10 دقیقه</translation>
     </message>
     <message>
       <source>Visitors initiated</source>
@@ -4444,10 +4532,6 @@
       <translation>فعال</translation>
     </message>
     <message>
-      <source>Proactive chats number vs visitors initiated</source>
-      <translation>تعداد گفتگوهای فعال در مقابل بازدیدکنندگان وارد شده</translation>
-    </message>
-    <message>
       <source>Visitors</source>
       <translation>بازدید کننده ها</translation>
     </message>
@@ -4456,48 +4540,8 @@
       <translation>سیستم</translation>
     </message>
     <message>
-      <source>Messages types</source>
-      <translation>نوع پیام ها</translation>
-    </message>
-    <message>
-      <source>Number of chats per hour, average chat duration</source>
-      <translation>تعداد چت ها در هر ساعت، میانگین مدت زمان چت</translation>
-    </message>
-    <message>
-      <source>Hourly statistic</source>
-      <translation>آمار ساعتی</translation>
-    </message>
-    <message>
-      <source>Country statistic</source>
-      <translation>آمار کشورها</translation>
-    </message>
-    <message>
-      <source>Users statisic</source>
-      <translation>آمار کاربران</translation>
-    </message>
-    <message>
-      <source>Number of chats by user</source>
-      <translation>تعداد چت ها بر اساس کاربر</translation>
-    </message>
-    <message>
-      <source>Number of messages by user</source>
-      <translation>تعداد پیام ها براساس کاربران</translation>
-    </message>
-    <message>
-      <source>Average chat duration by user</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <source>All operators statistic will be downloaded</source>
       <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>AVG visitor wait time by operator</source>
-      <translation>زمان انتظار بازدیدکننده AVG بر اساس اپراتور</translation>
-    </message>
-    <message>
-      <source>Last 24h statistic</source>
-      <translation>آمار روز اخیر</translation>
     </message>
     <message>
       <source>Parameter</source>
@@ -4510,46 +4554,6 @@
     <message>
       <source>Total chats</source>
       <translation>کل چت ها</translation>
-    </message>
-    <message>
-      <source>Total pending chats</source>
-      <translation>کل چت های در انتظار</translation>
-    </message>
-    <message>
-      <source>Total active chats</source>
-      <translation>کل چت های فعال</translation>
-    </message>
-    <message>
-      <source>Total closed chats</source>
-      <translation>کل چت های بسته شده</translation>
-    </message>
-    <message>
-      <source>Unanswered chats</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Chatbox chats</source>
-      <translation>چت های Chatbox </translation>
-    </message>
-    <message>
-      <source>Total messages (including visitors, system and operators messages)</source>
-      <translation>تمامی پیام ها (شامل بازدیدکنندگان، پیام های سیستم و اپراتورها)</translation>
-    </message>
-    <message>
-      <source>Total messages (only visitors)</source>
-      <translation>کل پیام ها (فقط بازدیدکنندگان)</translation>
-    </message>
-    <message>
-      <source>Total messages (only system messages)</source>
-      <translation>کل پیام ها (فقط پیام های سیستم)</translation>
-    </message>
-    <message>
-      <source>Total messages (only operators)</source>
-      <translation>کل پیام ها (فقط اپراتورها)</translation>
-    </message>
-    <message>
-      <source>Operators statistic, top 100 by chats number</source>
-      <translation type="unfinished"/>
     </message>
     <message>
       <source>Total messages</source>
@@ -4566,6 +4570,126 @@
     <message>
       <source>ago</source>
       <translation>پیش</translation>
+    </message>
+    <message>
+      <source>Average chat duration by user</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>AVG visitor wait time by operator</source>
+      <translation>زمان انتظار بازدیدکننده AVG بر اساس اپراتور</translation>
+    </message>
+    <message>
+      <source>AVG wait time in seconds, max 10 mininutes</source>
+      <translation>زمان انتظار AVG بر حسب ثانیه، حداکثر 10 دقیقه</translation>
+    </message>
+    <message>
+      <source>Chatbox chats</source>
+      <translation>چت های Chatbox </translation>
+    </message>
+    <message>
+      <source>Chats number by statuses</source>
+      <translation>تعداد چت ها بر اساس وضعیت</translation>
+    </message>
+    <message>
+      <source>Chats statistic</source>
+      <translation>آمار چت ها</translation>
+    </message>
+    <message>
+      <source>Country statistic</source>
+      <translation>آمار کشورها</translation>
+    </message>
+    <message>
+      <source>Hourly statistic</source>
+      <translation>آمار ساعتی</translation>
+    </message>
+    <message>
+      <source>Last 24h statistic</source>
+      <translation>آمار روز اخیر</translation>
+    </message>
+    <message>
+      <source>Messages types</source>
+      <translation>نوع پیام ها</translation>
+    </message>
+    <message>
+      <source>Number of chats by country</source>
+      <translation>تعداد چت ها بر اساس کشور</translation>
+    </message>
+    <message>
+      <source>Number of chats by user</source>
+      <translation>تعداد چت ها بر اساس کاربر</translation>
+    </message>
+    <message>
+      <source>Number of chats per hour, average chat duration</source>
+      <translation>تعداد چت ها در هر ساعت، میانگین مدت زمان چت</translation>
+    </message>
+    <message>
+      <source>Number of messages by user</source>
+      <translation>تعداد پیام ها براساس کاربران</translation>
+    </message>
+    <message>
+      <source>Number of Thumbs Down</source>
+      <translation>تعداد شست پایین</translation>
+    </message>
+    <message>
+      <source>Number of Thumbs Up</source>
+      <translation>تعداد شست بالا</translation>
+    </message>
+    <message>
+      <source>Operators statistic, top 100 by chats number</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Proactive chats number vs visitors initiated</source>
+      <translation>تعداد گفتگوهای فعال در مقابل بازدیدکنندگان وارد شده</translation>
+    </message>
+    <message>
+      <source>Last 24 hours statistic</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Total statistic</source>
+      <translation>آمار کلی</translation>
+    </message>
+    <message>
+      <source>Total active chats</source>
+      <translation>کل چت های فعال</translation>
+    </message>
+    <message>
+      <source>Total closed chats</source>
+      <translation>کل چت های بسته شده</translation>
+    </message>
+    <message>
+      <source>Total messages (including visitors, system and operators messages)</source>
+      <translation>تمامی پیام ها (شامل بازدیدکنندگان، پیام های سیستم و اپراتورها)</translation>
+    </message>
+    <message>
+      <source>Total messages (only operators)</source>
+      <translation>کل پیام ها (فقط اپراتورها)</translation>
+    </message>
+    <message>
+      <source>Total messages (only system messages)</source>
+      <translation>کل پیام ها (فقط پیام های سیستم)</translation>
+    </message>
+    <message>
+      <source>Total messages (only visitors)</source>
+      <translation>کل پیام ها (فقط بازدیدکنندگان)</translation>
+    </message>
+    <message>
+      <source>Total pending chats</source>
+      <translation>کل چت های در انتظار</translation>
+    </message>
+    <message>
+      <source>Unanswered chats</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Unanswered chats numbers</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Users statisic</source>
+      <translation>آمار کاربران</translation>
     </message>
   </context>
   <context>
@@ -5177,6 +5301,10 @@
       <source>more information on how to use it</source>
       <translation>اطلاعات بیشتر درباره نحوه استفاده از آن</translation>
     </message>
+    <message>
+      <source>Paid chat settings</source>
+      <translation type="unfinished"/>
+    </message>
   </context>
   <context>
     <name>chatbox/list</name>
@@ -5319,8 +5447,32 @@
   <context>
     <name>user/account</name>
     <message>
+      <source>Please enter a username!</source>
+      <translation>لطفا یک نام کاربری وارد کنید!</translation>
+    </message>
+    <message>
+      <source>User exists!</source>
+      <translation>کاربر وجود دارد!</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>آدرس ایمیل اشتباه است</translation>
+    </message>
+    <message>
+      <source>Please enter a name</source>
+      <translation>لطفا یک نام وارد کنید</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>رمزهای عبور یکسان نیستند</translation>
+    </message>
+    <message>
       <source>Updated</source>
       <translation>به روزشده</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>به روزرسانی</translation>
     </message>
     <message>
       <source>Updating...</source>
@@ -5387,6 +5539,10 @@
       <translation>ایمیل</translation>
     </message>
     <message>
+      <source>Chat nickname</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Name</source>
       <translation>نام</translation>
     </message>
@@ -5421,10 +5577,6 @@
     <message>
       <source>Delete</source>
       <translation>حذف</translation>
-    </message>
-    <message>
-      <source>Update</source>
-      <translation>به روزرسانی</translation>
     </message>
     <message>
       <source>Return</source>
@@ -5473,26 +5625,6 @@
     <message>
       <source>Personal canned messages</source>
       <translation>پیام های شخصی از پیش تعریف شده</translation>
-    </message>
-    <message>
-      <source>Please enter a username!</source>
-      <translation>لطفا یک نام کاربری وارد کنید!</translation>
-    </message>
-    <message>
-      <source>User exists!</source>
-      <translation>کاربر وجود دارد!</translation>
-    </message>
-    <message>
-      <source>Wrong email address</source>
-      <translation>آدرس ایمیل اشتباه است</translation>
-    </message>
-    <message>
-      <source>Please enter a name</source>
-      <translation>لطفا یک نام وارد کنید</translation>
-    </message>
-    <message>
-      <source>Passwords mismatch</source>
-      <translation>رمزهای عبور یکسان نیستند</translation>
     </message>
   </context>
   <context>
@@ -6723,6 +6855,14 @@
   <context>
     <name>user/edit</name>
     <message>
+      <source>Please enter a name</source>
+      <translation>لطفا یک نام وارد کنید</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>رمزهای عبور یکسان نیستند</translation>
+    </message>
+    <message>
       <source>Server default time zone</source>
       <translation>منطقه زمانی پیش فرض سرور</translation>
     </message>
@@ -6749,6 +6889,10 @@
     <message>
       <source>E-mail</source>
       <translation>ایمیل</translation>
+    </message>
+    <message>
+      <source>Chat nickname</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Name</source>
@@ -6793,14 +6937,6 @@
     <message>
       <source>Invalid CSRF token!</source>
       <translation>CSRF token نامعتبر است!</translation>
-    </message>
-    <message>
-      <source>Please enter a name</source>
-      <translation>لطفا یک نام وارد کنید</translation>
-    </message>
-    <message>
-      <source>Passwords mismatch</source>
-      <translation>رمزهای عبور یکسان نیستند</translation>
     </message>
     <message>
       <source>System configuration</source>
@@ -6860,6 +6996,10 @@
   <context>
     <name>theme/index</name>
     <message>
+      <source>Products</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Default theme</source>
       <translation>قالب پیش فرض</translation>
     </message>
@@ -6874,6 +7014,10 @@
     <message>
       <source>Import a new theme</source>
       <translation>وارد کردن قالب جدید</translation>
+    </message>
+    <message>
+      <source>Rest API</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Themes</source>
@@ -6925,6 +7069,30 @@
   <context>
     <name>user/new</name>
     <message>
+      <source>Please choose a default user group</source>
+      <translation>لطفا یک گروه کاربری پیش فرض انتخاب کنید</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>آدرس ایمیل، اشتباه است</translation>
+    </message>
+    <message>
+      <source>Please enter a name</source>
+      <translation>لطفا یک نام وارد کنید</translation>
+    </message>
+    <message>
+      <source>Please enter a username</source>
+      <translation>لطفا نام کاربری را وارد کنید</translation>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation>کاربر وجود دارد</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>رمزهای عبور یکسان نیستند</translation>
+    </message>
+    <message>
       <source>Invisible mode</source>
       <translation>حالت پنهان</translation>
     </message>
@@ -6973,6 +7141,10 @@
       <translation>تکرار رمز عبور جدید</translation>
     </message>
     <message>
+      <source>Chat nickname</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Name</source>
       <translation>نام</translation>
     </message>
@@ -6991,30 +7163,6 @@
     <message>
       <source>Departments</source>
       <translation>دپارتمان ها</translation>
-    </message>
-    <message>
-      <source>Please choose a default user group</source>
-      <translation>لطفا یک گروه کاربری پیش فرض انتخاب کنید</translation>
-    </message>
-    <message>
-      <source>Wrong email address</source>
-      <translation>آدرس ایمیل، اشتباه است</translation>
-    </message>
-    <message>
-      <source>Please enter a name</source>
-      <translation>لطفا یک نام وارد کنید</translation>
-    </message>
-    <message>
-      <source>Please enter a username</source>
-      <translation>لطفا نام کاربری را وارد کنید</translation>
-    </message>
-    <message>
-      <source>User exists</source>
-      <translation>کاربر وجود دارد</translation>
-    </message>
-    <message>
-      <source>Passwords mismatch</source>
-      <translation>رمزهای عبور یکسان نیستند</translation>
     </message>
     <message>
       <source>System configuration</source>
@@ -7708,6 +7856,112 @@
     <message>
       <source>Please enter valid file type!</source>
       <translation>لطفا نوع معتبر فایل را وارد کنید!</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhproduct/index</name>
+    <message>
+      <source>Products</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>abstract/product</name>
+    <message>
+      <source>Name</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Priority</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>API Key</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>user/validator</name>
+    <message>
+      <source>Please enter a username</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>User action type not set</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please enter a name</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please choose a default user group</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>paidchat/expiredchat</name>
+    <message>
+      <source>Chat</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Chat was closed.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Invalid hash</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Removed paid chat</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>paidchat/settings</name>
+    <message>
+      <source>Paid chat settings</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Enabled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>User can not access old chat if chat is closed</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Secret hash, used for verification</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lhrestapi/index</name>
+    <message>
+      <source>Rest API</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Rest API Keys</source>
+      <translation type="unfinished"/>
     </message>
   </context>
 </TS>

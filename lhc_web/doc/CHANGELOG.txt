@@ -1,3 +1,22 @@
+2.45v
+
+1. Admin themes
+execute doc/update_db/update_120.sql for update
+
+2.44v
+
+1. Rest API Initial version
+
+execute doc/update_db/update_119.sql for update
+
+2.43v
+
+1. Chat lists will have option to filter by product
+2. Chat's widgets can be filtered by product
+3. Custom field in users account which would be used instead of Name surname if filled.
+
+execute doc/update_db/update_118.sql for update
+
 2.42v
 
 1. Product concept, few products can be assigned to single department [Sponsored]

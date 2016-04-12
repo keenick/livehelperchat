@@ -26,6 +26,38 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Product module is enabled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>How many days voting widget should not be expanded after last show</source>
       <translation>Колко дни след последното показване да не се показва приставката за гласуване?</translation>
     </message>
@@ -411,6 +443,10 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Disabled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Name</source>
       <translation>Име</translation>
     </message>
@@ -705,16 +741,16 @@
       <translation>Включен</translation>
     </message>
     <message>
+      <source>Department</source>
+      <translation>Отдел</translation>
+    </message>
+    <message>
       <source>Language, leave empty for all. E.g lit, rus, ger etc...</source>
       <translation>Език, оставете празно, за да са активни всички езици. Пр. lit, rus, ger, eng, и т.н.</translation>
     </message>
     <message>
       <source>Position</source>
       <translation>Позиция</translation>
-    </message>
-    <message>
-      <source>Department</source>
-      <translation>Отдел</translation>
     </message>
     <message>
       <source>Wait message. Visible when users starts chat and is waiting for someone to accept a chat.</source>
@@ -1091,6 +1127,14 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Show product selection based on selected departments</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Minimize action, applies only if status widget is at the bottom</source>
       <translation>Действие при минимизиране, прилага се само ако модула е на дъното на прозореца</translation>
     </message>
@@ -1157,6 +1201,18 @@
     <message>
       <source>System configuration</source>
       <translation>Системна конфигурация</translation>
+    </message>
+    <message>
+      <source>Chat expired</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Invalid hash</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Chat was removed</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -1833,6 +1889,10 @@
       <translation>Отдел</translation>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Country</source>
       <translation>Страна</translation>
     </message>
@@ -2190,6 +2250,10 @@
       <translation>Последна активност преди</translation>
     </message>
     <message>
+      <source>Sort</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Wait time</source>
       <translation type="unfinished"/>
     </message>
@@ -2386,6 +2450,14 @@
       <translation>Имате ли въпрос? Попитайте ни!</translation>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Choose a product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Type your message here and hit enter to send...</source>
       <translation>Напишете съобщението си тук и натиснете enter, за да го изпратите...</translation>
     </message>
@@ -2478,6 +2550,14 @@
       <translation>Невалиден файл</translation>
     </message>
     <message>
+      <source>Could not find a product!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please choose a product!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Please choose</source>
       <translation type="unfinished"/>
     </message>
@@ -2492,6 +2572,10 @@
     <message>
       <source>is required</source>
       <translation>е нужно</translation>
+    </message>
+    <message>
+      <source>Could not decrypt data!</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Your request was not processed as expected - but don&apos;t worry it was not your fault. Please re-submit your request. If you experience the same issue you will need to contact us via other means.</source>
@@ -3526,6 +3610,10 @@
       <translation>Поддръжка</translation>
     </message>
     <message>
+      <source>Paid chat configuration</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Update information</source>
       <translation>Обновяване на информацията</translation>
     </message>
@@ -3534,8 +3622,16 @@
       <translation>Активни покани за съобщения</translation>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Questionary embed code</source>
       <translation>Код за вграждане Въпросник</translation>
+    </message>
+    <message>
+      <source>Rest API</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Start chat form settings</source>
@@ -3853,6 +3949,10 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Search</source>
       <translation>Търсене</translation>
     </message>
@@ -3875,6 +3975,10 @@
     <message>
       <source>Select user</source>
       <translation>Избиране на потребител</translation>
+    </message>
+    <message>
+      <source>Select product</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Type to search</source>
@@ -3985,6 +4089,10 @@
     </message>
     <message>
       <source>Hide disabled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Department</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -4321,6 +4429,22 @@
       <translation>Височина в пиксели на първоначалното потребителско съобщение </translation>
     </message>
     <message>
+      <source>Encryption key, min length 40</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Additional encryption key, min length 40</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Minimum 40 characters for encryption key!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Minimum 40 characters for additional encryption key!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Please choose at least one field for a popup</source>
       <translation>Изберете поне едно поле за модула</translation>
     </message>
@@ -4340,18 +4464,6 @@
       <translation>Статистика</translation>
     </message>
     <message>
-      <source>Chats statistic</source>
-      <translation>Чат статистики</translation>
-    </message>
-    <message>
-      <source>Total statistic</source>
-      <translation>Обща статистика</translation>
-    </message>
-    <message>
-      <source>Last 24 hours statistic</source>
-      <translation>Последните 24 часа статистика</translation>
-    </message>
-    <message>
       <source>User</source>
       <translation>Потребител</translation>
     </message>
@@ -4360,16 +4472,8 @@
       <translation>Добре</translation>
     </message>
     <message>
-      <source>Number of Thumbs Up</source>
-      <translation>Брой дадени &quot;Добре&quot;</translation>
-    </message>
-    <message>
       <source>Thumbs down</source>
       <translation>Зле</translation>
-    </message>
-    <message>
-      <source>Number of Thumbs Down</source>
-      <translation>Брой дадени &quot;Зле&quot;</translation>
     </message>
     <message>
       <source>Country</source>
@@ -4378,10 +4482,6 @@
     <message>
       <source>Chats</source>
       <translation>Чатове</translation>
-    </message>
-    <message>
-      <source>Number of chats by country</source>
-      <translation>Брой чатове по държава</translation>
     </message>
     <message>
       <source>Average in seconds</source>
@@ -4416,24 +4516,12 @@
       <translation>Изчакващи</translation>
     </message>
     <message>
-      <source>Chats number by statuses</source>
-      <translation>Брой чатове по статус</translation>
-    </message>
-    <message>
       <source>Number</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Unanswered chats numbers</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <source>Time</source>
       <translation>Време</translation>
-    </message>
-    <message>
-      <source>AVG wait time in seconds, max 10 mininutes</source>
-      <translation>Средно време за изчакване в секунди, максимално 10 минути</translation>
     </message>
     <message>
       <source>Visitors initiated</source>
@@ -4444,10 +4532,6 @@
       <translation>Активни покани</translation>
     </message>
     <message>
-      <source>Proactive chats number vs visitors initiated</source>
-      <translation>Отношение активни покани / потребители започнали чат</translation>
-    </message>
-    <message>
       <source>Visitors</source>
       <translation>Посетители</translation>
     </message>
@@ -4456,48 +4540,8 @@
       <translation>Система</translation>
     </message>
     <message>
-      <source>Messages types</source>
-      <translation>Видове съобщения</translation>
-    </message>
-    <message>
-      <source>Number of chats per hour, average chat duration</source>
-      <translation>Брой чатове по часове, средна продължителност на чат</translation>
-    </message>
-    <message>
-      <source>Hourly statistic</source>
-      <translation>Статистика по час</translation>
-    </message>
-    <message>
-      <source>Country statistic</source>
-      <translation>Стратистика по държави</translation>
-    </message>
-    <message>
-      <source>Users statisic</source>
-      <translation>Статистика по потребители</translation>
-    </message>
-    <message>
-      <source>Number of chats by user</source>
-      <translation>Брой разговори по потребители</translation>
-    </message>
-    <message>
-      <source>Number of messages by user</source>
-      <translation>Брой съобщения по потребител</translation>
-    </message>
-    <message>
-      <source>Average chat duration by user</source>
-      <translation>Средна продължителност потребителски чат</translation>
-    </message>
-    <message>
       <source>All operators statistic will be downloaded</source>
       <translation>Всички операторски статистика ще бъдат изтеглени</translation>
-    </message>
-    <message>
-      <source>AVG visitor wait time by operator</source>
-      <translation>Средно изчакващо време на посетителя от оператора</translation>
-    </message>
-    <message>
-      <source>Last 24h statistic</source>
-      <translation>Статистика за последните 24 часа</translation>
     </message>
     <message>
       <source>Parameter</source>
@@ -4510,46 +4554,6 @@
     <message>
       <source>Total chats</source>
       <translation>Общо чатове</translation>
-    </message>
-    <message>
-      <source>Total pending chats</source>
-      <translation>Общо изчакващи чатове</translation>
-    </message>
-    <message>
-      <source>Total active chats</source>
-      <translation>Общо активни чатове</translation>
-    </message>
-    <message>
-      <source>Total closed chats</source>
-      <translation>Общо затворени чатове</translation>
-    </message>
-    <message>
-      <source>Unanswered chats</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Chatbox chats</source>
-      <translation>Чатове в чат кутията</translation>
-    </message>
-    <message>
-      <source>Total messages (including visitors, system and operators messages)</source>
-      <translation>Общо съобщения (в т.ч. посетители, системни и операторски съобщения)</translation>
-    </message>
-    <message>
-      <source>Total messages (only visitors)</source>
-      <translation>Общо съобщения (само посетители)</translation>
-    </message>
-    <message>
-      <source>Total messages (only system messages)</source>
-      <translation>Общо съобщения (само системни съобщения)</translation>
-    </message>
-    <message>
-      <source>Total messages (only operators)</source>
-      <translation>Общо съобщения (само оператори)</translation>
-    </message>
-    <message>
-      <source>Operators statistic, top 100 by chats number</source>
-      <translation>Операторска статистика, Топ 100 по чатове номер</translation>
     </message>
     <message>
       <source>Total messages</source>
@@ -4566,6 +4570,126 @@
     <message>
       <source>ago</source>
       <translation>преди</translation>
+    </message>
+    <message>
+      <source>Average chat duration by user</source>
+      <translation>Средна продължителност потребителски чат</translation>
+    </message>
+    <message>
+      <source>AVG visitor wait time by operator</source>
+      <translation>Средно изчакващо време на посетителя от оператора</translation>
+    </message>
+    <message>
+      <source>AVG wait time in seconds, max 10 mininutes</source>
+      <translation>Средно време за изчакване в секунди, максимално 10 минути</translation>
+    </message>
+    <message>
+      <source>Chatbox chats</source>
+      <translation>Чатове в чат кутията</translation>
+    </message>
+    <message>
+      <source>Chats number by statuses</source>
+      <translation>Брой чатове по статус</translation>
+    </message>
+    <message>
+      <source>Chats statistic</source>
+      <translation>Чат статистики</translation>
+    </message>
+    <message>
+      <source>Country statistic</source>
+      <translation>Стратистика по държави</translation>
+    </message>
+    <message>
+      <source>Hourly statistic</source>
+      <translation>Статистика по час</translation>
+    </message>
+    <message>
+      <source>Last 24h statistic</source>
+      <translation>Статистика за последните 24 часа</translation>
+    </message>
+    <message>
+      <source>Messages types</source>
+      <translation>Видове съобщения</translation>
+    </message>
+    <message>
+      <source>Number of chats by country</source>
+      <translation>Брой чатове по държава</translation>
+    </message>
+    <message>
+      <source>Number of chats by user</source>
+      <translation>Брой разговори по потребители</translation>
+    </message>
+    <message>
+      <source>Number of chats per hour, average chat duration</source>
+      <translation>Брой чатове по часове, средна продължителност на чат</translation>
+    </message>
+    <message>
+      <source>Number of messages by user</source>
+      <translation>Брой съобщения по потребител</translation>
+    </message>
+    <message>
+      <source>Number of Thumbs Down</source>
+      <translation>Брой дадени &quot;Зле&quot;</translation>
+    </message>
+    <message>
+      <source>Number of Thumbs Up</source>
+      <translation>Брой дадени &quot;Добре&quot;</translation>
+    </message>
+    <message>
+      <source>Operators statistic, top 100 by chats number</source>
+      <translation>Операторска статистика, Топ 100 по чатове номер</translation>
+    </message>
+    <message>
+      <source>Proactive chats number vs visitors initiated</source>
+      <translation>Отношение активни покани / потребители започнали чат</translation>
+    </message>
+    <message>
+      <source>Last 24 hours statistic</source>
+      <translation>Последните 24 часа статистика</translation>
+    </message>
+    <message>
+      <source>Total statistic</source>
+      <translation>Обща статистика</translation>
+    </message>
+    <message>
+      <source>Total active chats</source>
+      <translation>Общо активни чатове</translation>
+    </message>
+    <message>
+      <source>Total closed chats</source>
+      <translation>Общо затворени чатове</translation>
+    </message>
+    <message>
+      <source>Total messages (including visitors, system and operators messages)</source>
+      <translation>Общо съобщения (в т.ч. посетители, системни и операторски съобщения)</translation>
+    </message>
+    <message>
+      <source>Total messages (only operators)</source>
+      <translation>Общо съобщения (само оператори)</translation>
+    </message>
+    <message>
+      <source>Total messages (only system messages)</source>
+      <translation>Общо съобщения (само системни съобщения)</translation>
+    </message>
+    <message>
+      <source>Total messages (only visitors)</source>
+      <translation>Общо съобщения (само посетители)</translation>
+    </message>
+    <message>
+      <source>Total pending chats</source>
+      <translation>Общо изчакващи чатове</translation>
+    </message>
+    <message>
+      <source>Unanswered chats</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Unanswered chats numbers</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Users statisic</source>
+      <translation>Статистика по потребители</translation>
     </message>
   </context>
   <context>
@@ -5177,6 +5301,10 @@
       <source>more information on how to use it</source>
       <translation>повече информация как се използва</translation>
     </message>
+    <message>
+      <source>Paid chat settings</source>
+      <translation type="unfinished"/>
+    </message>
   </context>
   <context>
     <name>chatbox/list</name>
@@ -5319,8 +5447,32 @@
   <context>
     <name>user/account</name>
     <message>
+      <source>Please enter a username!</source>
+      <translation>Въведете потребителско име!</translation>
+    </message>
+    <message>
+      <source>User exists!</source>
+      <translation>Потребителят съществува!</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Грешен адрес за е-поща</translation>
+    </message>
+    <message>
+      <source>Please enter a name</source>
+      <translation>Въведете име</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Паролите не съвпадат</translation>
+    </message>
+    <message>
       <source>Updated</source>
       <translation>Обновен</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Обновяване</translation>
     </message>
     <message>
       <source>Updating...</source>
@@ -5387,6 +5539,10 @@
       <translation>Е-поща</translation>
     </message>
     <message>
+      <source>Chat nickname</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Name</source>
       <translation>Име</translation>
     </message>
@@ -5421,10 +5577,6 @@
     <message>
       <source>Delete</source>
       <translation>Изтриване</translation>
-    </message>
-    <message>
-      <source>Update</source>
-      <translation>Обновяване</translation>
     </message>
     <message>
       <source>Return</source>
@@ -5473,26 +5625,6 @@
     <message>
       <source>Personal canned messages</source>
       <translation>Лични автоматични съобщения</translation>
-    </message>
-    <message>
-      <source>Please enter a username!</source>
-      <translation>Въведете потребителско име!</translation>
-    </message>
-    <message>
-      <source>User exists!</source>
-      <translation>Потребителят съществува!</translation>
-    </message>
-    <message>
-      <source>Wrong email address</source>
-      <translation>Грешен адрес за е-поща</translation>
-    </message>
-    <message>
-      <source>Please enter a name</source>
-      <translation>Въведете име</translation>
-    </message>
-    <message>
-      <source>Passwords mismatch</source>
-      <translation>Паролите не съвпадат</translation>
     </message>
   </context>
   <context>
@@ -6723,6 +6855,14 @@
   <context>
     <name>user/edit</name>
     <message>
+      <source>Please enter a name</source>
+      <translation>Въведете име</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Паролите не съвпадат</translation>
+    </message>
+    <message>
       <source>Server default time zone</source>
       <translation>Часова зона на сървъра по подразбиране</translation>
     </message>
@@ -6749,6 +6889,10 @@
     <message>
       <source>E-mail</source>
       <translation>Е-поща</translation>
+    </message>
+    <message>
+      <source>Chat nickname</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Name</source>
@@ -6793,14 +6937,6 @@
     <message>
       <source>Invalid CSRF token!</source>
       <translation>Невалиден CSRF токен!</translation>
-    </message>
-    <message>
-      <source>Please enter a name</source>
-      <translation>Въведете име</translation>
-    </message>
-    <message>
-      <source>Passwords mismatch</source>
-      <translation>Паролите не съвпадат</translation>
     </message>
     <message>
       <source>System configuration</source>
@@ -6860,6 +6996,10 @@
   <context>
     <name>theme/index</name>
     <message>
+      <source>Products</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Default theme</source>
       <translation>Тема по подразбиране</translation>
     </message>
@@ -6874,6 +7014,10 @@
     <message>
       <source>Import a new theme</source>
       <translation>Качване на нова тема</translation>
+    </message>
+    <message>
+      <source>Rest API</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Themes</source>
@@ -6925,6 +7069,30 @@
   <context>
     <name>user/new</name>
     <message>
+      <source>Please choose a default user group</source>
+      <translation>Изберете потребителска група по подразбиране</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Грешен е-мейл адрес</translation>
+    </message>
+    <message>
+      <source>Please enter a name</source>
+      <translation>Въведете име</translation>
+    </message>
+    <message>
+      <source>Please enter a username</source>
+      <translation>Въведете потребителско име</translation>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation>Потребителят съществува</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Паролите не съвпадат</translation>
+    </message>
+    <message>
       <source>Invisible mode</source>
       <translation>Невидим режим</translation>
     </message>
@@ -6973,6 +7141,10 @@
       <translation>Повторно новата парола</translation>
     </message>
     <message>
+      <source>Chat nickname</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Name</source>
       <translation>Име</translation>
     </message>
@@ -6991,30 +7163,6 @@
     <message>
       <source>Departments</source>
       <translation>Отдел</translation>
-    </message>
-    <message>
-      <source>Please choose a default user group</source>
-      <translation>Изберете потребителска група по подразбиране</translation>
-    </message>
-    <message>
-      <source>Wrong email address</source>
-      <translation>Грешен е-мейл адрес</translation>
-    </message>
-    <message>
-      <source>Please enter a name</source>
-      <translation>Въведете име</translation>
-    </message>
-    <message>
-      <source>Please enter a username</source>
-      <translation>Въведете потребителско име</translation>
-    </message>
-    <message>
-      <source>User exists</source>
-      <translation>Потребителят съществува</translation>
-    </message>
-    <message>
-      <source>Passwords mismatch</source>
-      <translation>Паролите не съвпадат</translation>
     </message>
     <message>
       <source>System configuration</source>
@@ -7708,6 +7856,112 @@
     <message>
       <source>Please enter valid file type!</source>
       <translation>Въведете валиден формат!</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhproduct/index</name>
+    <message>
+      <source>Products</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>abstract/product</name>
+    <message>
+      <source>Name</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Priority</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>API Key</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>user/validator</name>
+    <message>
+      <source>Please enter a username</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>User action type not set</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please enter a name</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please choose a default user group</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>paidchat/expiredchat</name>
+    <message>
+      <source>Chat</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Chat was closed.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Invalid hash</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Removed paid chat</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>paidchat/settings</name>
+    <message>
+      <source>Paid chat settings</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Enabled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>User can not access old chat if chat is closed</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Secret hash, used for verification</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lhrestapi/index</name>
+    <message>
+      <source>Rest API</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Rest API Keys</source>
+      <translation type="unfinished"/>
     </message>
   </context>
 </TS>

@@ -26,6 +26,38 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Product module is enabled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>How many days voting widget should not be expanded after last show</source>
       <translation type="unfinished"/>
     </message>
@@ -411,6 +443,10 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Disabled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Name</source>
       <translation>İsim</translation>
     </message>
@@ -705,16 +741,16 @@
       <translation>Etkinleştirildi</translation>
     </message>
     <message>
+      <source>Department</source>
+      <translation>Departman</translation>
+    </message>
+    <message>
       <source>Language, leave empty for all. E.g lit, rus, ger etc...</source>
       <translation>Dil, hepsini boş bırak. Örn. lit, rus, alm vs...</translation>
     </message>
     <message>
       <source>Position</source>
       <translation>Pozisyon</translation>
-    </message>
-    <message>
-      <source>Department</source>
-      <translation>Departman</translation>
     </message>
     <message>
       <source>Wait message. Visible when users starts chat and is waiting for someone to accept a chat.</source>
@@ -1091,6 +1127,14 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Show product selection based on selected departments</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Minimize action, applies only if status widget is at the bottom</source>
       <translation type="unfinished"/>
     </message>
@@ -1157,6 +1201,18 @@
     <message>
       <source>System configuration</source>
       <translation>Sistem ayarı</translation>
+    </message>
+    <message>
+      <source>Chat expired</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Invalid hash</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Chat was removed</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -1833,6 +1889,10 @@
       <translation>Departman</translation>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Country</source>
       <translation>Ülke</translation>
     </message>
@@ -2190,6 +2250,10 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Sort</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Wait time</source>
       <translation type="unfinished"/>
     </message>
@@ -2386,6 +2450,14 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Choose a product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Type your message here and hit enter to send...</source>
       <translation>Mesajınızı buraya girin ve göndermek için enter&apos;a basın...</translation>
     </message>
@@ -2478,6 +2550,14 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Could not find a product!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please choose a product!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Please choose</source>
       <translation type="unfinished"/>
     </message>
@@ -2491,6 +2571,10 @@
     </message>
     <message>
       <source>is required</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Could not decrypt data!</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -3528,6 +3612,10 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Paid chat configuration</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Update information</source>
       <translation>Bilgiyi güncelle</translation>
     </message>
@@ -3536,8 +3624,16 @@
       <translation>Pro aktif konuşma davetiyeleri</translation>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Questionary embed code</source>
       <translation>Anket gömü kodu</translation>
+    </message>
+    <message>
+      <source>Rest API</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Start chat form settings</source>
@@ -3855,6 +3951,10 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Search</source>
       <translation type="unfinished"/>
     </message>
@@ -3877,6 +3977,10 @@
     <message>
       <source>Select user</source>
       <translation>Seçili kullanıcı</translation>
+    </message>
+    <message>
+      <source>Select product</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Type to search</source>
@@ -3987,6 +4091,10 @@
     </message>
     <message>
       <source>Hide disabled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Department</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -4323,6 +4431,22 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Encryption key, min length 40</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Additional encryption key, min length 40</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Minimum 40 characters for encryption key!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Minimum 40 characters for additional encryption key!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Please choose at least one field for a popup</source>
       <translation>Lütfen açılır pencere için en azından bir alan seçin</translation>
     </message>
@@ -4342,18 +4466,6 @@
       <translation>İstatistik</translation>
     </message>
     <message>
-      <source>Chats statistic</source>
-      <translation>Konuşma istatistikleri</translation>
-    </message>
-    <message>
-      <source>Total statistic</source>
-      <translation>Toplam istatistik</translation>
-    </message>
-    <message>
-      <source>Last 24 hours statistic</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <source>User</source>
       <translation>Kullanıcı</translation>
     </message>
@@ -4362,15 +4474,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Number of Thumbs Up</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <source>Thumbs down</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Number of Thumbs Down</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -4380,10 +4484,6 @@
     <message>
       <source>Chats</source>
       <translation>Konuşmalar</translation>
-    </message>
-    <message>
-      <source>Number of chats by country</source>
-      <translation type="unfinished"/>
     </message>
     <message>
       <source>Average in seconds</source>
@@ -4418,23 +4518,11 @@
       <translation>Beklemede</translation>
     </message>
     <message>
-      <source>Chats number by statuses</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <source>Number</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Unanswered chats numbers</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <source>Time</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>AVG wait time in seconds, max 10 mininutes</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -4446,10 +4534,6 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <source>Proactive chats number vs visitors initiated</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <source>Visitors</source>
       <translation>Ziyaretciler</translation>
     </message>
@@ -4458,48 +4542,8 @@
       <translation>Sistem</translation>
     </message>
     <message>
-      <source>Messages types</source>
-      <translation>Mesaj türü</translation>
-    </message>
-    <message>
-      <source>Number of chats per hour, average chat duration</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Hourly statistic</source>
-      <translation>Saatlik istatistik</translation>
-    </message>
-    <message>
-      <source>Country statistic</source>
-      <translation>Ülkesel istatistik</translation>
-    </message>
-    <message>
-      <source>Users statisic</source>
-      <translation>Kullanıcı istatistikleri</translation>
-    </message>
-    <message>
-      <source>Number of chats by user</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Number of messages by user</source>
-      <translation>Kullanıcının mesaj sayısı</translation>
-    </message>
-    <message>
-      <source>Average chat duration by user</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <source>All operators statistic will be downloaded</source>
       <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>AVG visitor wait time by operator</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Last 24h statistic</source>
-      <translation>Son 24 saatlik istatistik</translation>
     </message>
     <message>
       <source>Parameter</source>
@@ -4512,46 +4556,6 @@
     <message>
       <source>Total chats</source>
       <translation>Toplam konuşma</translation>
-    </message>
-    <message>
-      <source>Total pending chats</source>
-      <translation>Toplam bekleyen konuşma</translation>
-    </message>
-    <message>
-      <source>Total active chats</source>
-      <translation>Toplam aktif konuşma</translation>
-    </message>
-    <message>
-      <source>Total closed chats</source>
-      <translation>Toplam kapatılan konuşma</translation>
-    </message>
-    <message>
-      <source>Unanswered chats</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Chatbox chats</source>
-      <translation>Toplantı odası konuşmaları</translation>
-    </message>
-    <message>
-      <source>Total messages (including visitors, system and operators messages)</source>
-      <translation>Tüm mesajlar (Sistem, ziyaretçi ve operatör)</translation>
-    </message>
-    <message>
-      <source>Total messages (only visitors)</source>
-      <translation>Tüm mesajlar (ziyaretçiler)</translation>
-    </message>
-    <message>
-      <source>Total messages (only system messages)</source>
-      <translation>Toplam mesajlar (sadece sistem mesajları)</translation>
-    </message>
-    <message>
-      <source>Total messages (only operators)</source>
-      <translation>Tüm mesajlar (operatörler)</translation>
-    </message>
-    <message>
-      <source>Operators statistic, top 100 by chats number</source>
-      <translation type="unfinished"/>
     </message>
     <message>
       <source>Total messages</source>
@@ -4568,6 +4572,126 @@
     <message>
       <source>ago</source>
       <translation>önce</translation>
+    </message>
+    <message>
+      <source>Average chat duration by user</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>AVG visitor wait time by operator</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>AVG wait time in seconds, max 10 mininutes</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Chatbox chats</source>
+      <translation>Toplantı odası konuşmaları</translation>
+    </message>
+    <message>
+      <source>Chats number by statuses</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Chats statistic</source>
+      <translation>Konuşma istatistikleri</translation>
+    </message>
+    <message>
+      <source>Country statistic</source>
+      <translation>Ülkesel istatistik</translation>
+    </message>
+    <message>
+      <source>Hourly statistic</source>
+      <translation>Saatlik istatistik</translation>
+    </message>
+    <message>
+      <source>Last 24h statistic</source>
+      <translation>Son 24 saatlik istatistik</translation>
+    </message>
+    <message>
+      <source>Messages types</source>
+      <translation>Mesaj türü</translation>
+    </message>
+    <message>
+      <source>Number of chats by country</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Number of chats by user</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Number of chats per hour, average chat duration</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Number of messages by user</source>
+      <translation>Kullanıcının mesaj sayısı</translation>
+    </message>
+    <message>
+      <source>Number of Thumbs Down</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Number of Thumbs Up</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Operators statistic, top 100 by chats number</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Proactive chats number vs visitors initiated</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Last 24 hours statistic</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Total statistic</source>
+      <translation>Toplam istatistik</translation>
+    </message>
+    <message>
+      <source>Total active chats</source>
+      <translation>Toplam aktif konuşma</translation>
+    </message>
+    <message>
+      <source>Total closed chats</source>
+      <translation>Toplam kapatılan konuşma</translation>
+    </message>
+    <message>
+      <source>Total messages (including visitors, system and operators messages)</source>
+      <translation>Tüm mesajlar (Sistem, ziyaretçi ve operatör)</translation>
+    </message>
+    <message>
+      <source>Total messages (only operators)</source>
+      <translation>Tüm mesajlar (operatörler)</translation>
+    </message>
+    <message>
+      <source>Total messages (only system messages)</source>
+      <translation>Toplam mesajlar (sadece sistem mesajları)</translation>
+    </message>
+    <message>
+      <source>Total messages (only visitors)</source>
+      <translation>Tüm mesajlar (ziyaretçiler)</translation>
+    </message>
+    <message>
+      <source>Total pending chats</source>
+      <translation>Toplam bekleyen konuşma</translation>
+    </message>
+    <message>
+      <source>Unanswered chats</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Unanswered chats numbers</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Users statisic</source>
+      <translation>Kullanıcı istatistikleri</translation>
     </message>
   </context>
   <context>
@@ -5179,6 +5303,10 @@
       <source>more information on how to use it</source>
       <translation>nasıl kullanılacağı dair daha fazla bilgi</translation>
     </message>
+    <message>
+      <source>Paid chat settings</source>
+      <translation type="unfinished"/>
+    </message>
   </context>
   <context>
     <name>chatbox/list</name>
@@ -5321,8 +5449,32 @@
   <context>
     <name>user/account</name>
     <message>
+      <source>Please enter a username!</source>
+      <translation>Lütfen bir kullanıcı adı girin!</translation>
+    </message>
+    <message>
+      <source>User exists!</source>
+      <translation>Kullanıcı mevcut!</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Yanlış eposta adresi</translation>
+    </message>
+    <message>
+      <source>Please enter a name</source>
+      <translation>Lütfen bir isim girin</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Parolalar uyuşmuyor</translation>
+    </message>
+    <message>
       <source>Updated</source>
       <translation>Güncellendi</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Güncelle</translation>
     </message>
     <message>
       <source>Updating...</source>
@@ -5389,6 +5541,10 @@
       <translation>E-posta</translation>
     </message>
     <message>
+      <source>Chat nickname</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Name</source>
       <translation>İsim</translation>
     </message>
@@ -5423,10 +5579,6 @@
     <message>
       <source>Delete</source>
       <translation>Sil</translation>
-    </message>
-    <message>
-      <source>Update</source>
-      <translation>Güncelle</translation>
     </message>
     <message>
       <source>Return</source>
@@ -5475,26 +5627,6 @@
     <message>
       <source>Personal canned messages</source>
       <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Please enter a username!</source>
-      <translation>Lütfen bir kullanıcı adı girin!</translation>
-    </message>
-    <message>
-      <source>User exists!</source>
-      <translation>Kullanıcı mevcut!</translation>
-    </message>
-    <message>
-      <source>Wrong email address</source>
-      <translation>Yanlış eposta adresi</translation>
-    </message>
-    <message>
-      <source>Please enter a name</source>
-      <translation>Lütfen bir isim girin</translation>
-    </message>
-    <message>
-      <source>Passwords mismatch</source>
-      <translation>Parolalar uyuşmuyor</translation>
     </message>
   </context>
   <context>
@@ -6725,6 +6857,14 @@
   <context>
     <name>user/edit</name>
     <message>
+      <source>Please enter a name</source>
+      <translation>Lütfen bir isim girin</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Parolalar uyuşmuyor</translation>
+    </message>
+    <message>
       <source>Server default time zone</source>
       <translation>Sunucu öntanımlı saat dilimi</translation>
     </message>
@@ -6751,6 +6891,10 @@
     <message>
       <source>E-mail</source>
       <translation>E-posta</translation>
+    </message>
+    <message>
+      <source>Chat nickname</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Name</source>
@@ -6795,14 +6939,6 @@
     <message>
       <source>Invalid CSRF token!</source>
       <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Please enter a name</source>
-      <translation>Lütfen bir isim girin</translation>
-    </message>
-    <message>
-      <source>Passwords mismatch</source>
-      <translation>Parolalar uyuşmuyor</translation>
     </message>
     <message>
       <source>System configuration</source>
@@ -6862,6 +6998,10 @@
   <context>
     <name>theme/index</name>
     <message>
+      <source>Products</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Default theme</source>
       <translation>Varsayılan tema</translation>
     </message>
@@ -6876,6 +7016,10 @@
     <message>
       <source>Import a new theme</source>
       <translation>Yeni bir tema yükleyin</translation>
+    </message>
+    <message>
+      <source>Rest API</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Themes</source>
@@ -6927,6 +7071,30 @@
   <context>
     <name>user/new</name>
     <message>
+      <source>Please choose a default user group</source>
+      <translation>Lütfen bir varsayılan kullanıcı grubu seçin</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Geçersiz eposta adresi!</translation>
+    </message>
+    <message>
+      <source>Please enter a name</source>
+      <translation>Lütfen bir isim girin</translation>
+    </message>
+    <message>
+      <source>Please enter a username</source>
+      <translation>Lütfen bir kullanıcı adı girin</translation>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation>Kullanıcı mevcut</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Parolalar uyuşmuyor</translation>
+    </message>
+    <message>
       <source>Invisible mode</source>
       <translation>Görünmez mod</translation>
     </message>
@@ -6975,6 +7143,10 @@
       <translation>Yeni parolayı tekrar edin</translation>
     </message>
     <message>
+      <source>Chat nickname</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Name</source>
       <translation>İsim</translation>
     </message>
@@ -6993,30 +7165,6 @@
     <message>
       <source>Departments</source>
       <translation>Departmanlar</translation>
-    </message>
-    <message>
-      <source>Please choose a default user group</source>
-      <translation>Lütfen bir varsayılan kullanıcı grubu seçin</translation>
-    </message>
-    <message>
-      <source>Wrong email address</source>
-      <translation>Geçersiz eposta adresi!</translation>
-    </message>
-    <message>
-      <source>Please enter a name</source>
-      <translation>Lütfen bir isim girin</translation>
-    </message>
-    <message>
-      <source>Please enter a username</source>
-      <translation>Lütfen bir kullanıcı adı girin</translation>
-    </message>
-    <message>
-      <source>User exists</source>
-      <translation>Kullanıcı mevcut</translation>
-    </message>
-    <message>
-      <source>Passwords mismatch</source>
-      <translation>Parolalar uyuşmuyor</translation>
     </message>
     <message>
       <source>System configuration</source>
@@ -7710,6 +7858,112 @@
     <message>
       <source>Please enter valid file type!</source>
       <translation>Lütfen geçerli bir dosya türü girin!</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhproduct/index</name>
+    <message>
+      <source>Products</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>abstract/product</name>
+    <message>
+      <source>Name</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Priority</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>API Key</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>user/validator</name>
+    <message>
+      <source>Please enter a username</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>User action type not set</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please enter a name</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please choose a default user group</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>paidchat/expiredchat</name>
+    <message>
+      <source>Chat</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Chat was closed.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Invalid hash</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Removed paid chat</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>paidchat/settings</name>
+    <message>
+      <source>Paid chat settings</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Enabled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>User can not access old chat if chat is closed</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Secret hash, used for verification</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lhrestapi/index</name>
+    <message>
+      <source>Rest API</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Rest API Keys</source>
+      <translation type="unfinished"/>
     </message>
   </context>
 </TS>

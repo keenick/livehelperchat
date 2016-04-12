@@ -26,6 +26,38 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Product module is enabled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>How many days voting widget should not be expanded after last show</source>
       <translation>Nr de zile ce trebuie sa treaca de la ultima votare pentru ca fereastra de votare sa se poata activa din nou</translation>
     </message>
@@ -411,6 +443,10 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Disabled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Name</source>
       <translation>Nume</translation>
     </message>
@@ -705,16 +741,16 @@
       <translation>activat</translation>
     </message>
     <message>
+      <source>Department</source>
+      <translation>Departamentul</translation>
+    </message>
+    <message>
       <source>Language, leave empty for all. E.g lit, rus, ger etc...</source>
       <translation>Limba, lăsaţi gol pentru toate. De exemplu aprins, rus, ger etc...</translation>
     </message>
     <message>
       <source>Position</source>
       <translation>Poziţia</translation>
-    </message>
-    <message>
-      <source>Department</source>
-      <translation>Departamentul</translation>
     </message>
     <message>
       <source>Wait message. Visible when users starts chat and is waiting for someone to accept a chat.</source>
@@ -1091,6 +1127,14 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Show product selection based on selected departments</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Minimize action, applies only if status widget is at the bottom</source>
       <translation>Minimiza de acţiune, se aplică numai în cazul în care statutul widget-ul este în partea de jos</translation>
     </message>
@@ -1157,6 +1201,18 @@
     <message>
       <source>System configuration</source>
       <translation>Configurarea sistemului</translation>
+    </message>
+    <message>
+      <source>Chat expired</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Invalid hash</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Chat was removed</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -1833,6 +1889,10 @@
       <translation>Departament</translation>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Country</source>
       <translation>Tara</translation>
     </message>
@@ -2190,6 +2250,10 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Sort</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Wait time</source>
       <translation type="unfinished"/>
     </message>
@@ -2386,6 +2450,14 @@
       <translation>Ai o întrebare? Intreaba-ne!</translation>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Choose a product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Type your message here and hit enter to send...</source>
       <translation>Scrie un mesaj aici si apasa enter pentru a trimite...</translation>
     </message>
@@ -2478,6 +2550,14 @@
       <translation>Fisier invalid</translation>
     </message>
     <message>
+      <source>Could not find a product!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please choose a product!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Please choose</source>
       <translation type="unfinished"/>
     </message>
@@ -2492,6 +2572,10 @@
     <message>
       <source>is required</source>
       <translation>este obligatoriu</translation>
+    </message>
+    <message>
+      <source>Could not decrypt data!</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Your request was not processed as expected - but don&apos;t worry it was not your fault. Please re-submit your request. If you experience the same issue you will need to contact us via other means.</source>
@@ -3526,6 +3610,10 @@
       <translation>Mentenanta</translation>
     </message>
     <message>
+      <source>Paid chat configuration</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Update information</source>
       <translation>Informatii actualizate</translation>
     </message>
@@ -3534,8 +3622,16 @@
       <translation>Invitații pro-active la discuție</translation>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Questionary embed code</source>
       <translation>Cod pentru embed chestionar</translation>
+    </message>
+    <message>
+      <source>Rest API</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Start chat form settings</source>
@@ -3853,6 +3949,10 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Search</source>
       <translation>Căutare</translation>
     </message>
@@ -3875,6 +3975,10 @@
     <message>
       <source>Select user</source>
       <translation>Selectaţi utilizator</translation>
+    </message>
+    <message>
+      <source>Select product</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Type to search</source>
@@ -3985,6 +4089,10 @@
     </message>
     <message>
       <source>Hide disabled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Department</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -4321,6 +4429,22 @@
       <translation>Dimensiunea initiala a ferestrei mesageriei in pixeli</translation>
     </message>
     <message>
+      <source>Encryption key, min length 40</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Additional encryption key, min length 40</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Minimum 40 characters for encryption key!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Minimum 40 characters for additional encryption key!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Please choose at least one field for a popup</source>
       <translation>Te rog sa alegi minim un camp pentru popup</translation>
     </message>
@@ -4340,18 +4464,6 @@
       <translation>Statistici</translation>
     </message>
     <message>
-      <source>Chats statistic</source>
-      <translation>Chats statistic</translation>
-    </message>
-    <message>
-      <source>Total statistic</source>
-      <translation>Statistici totale</translation>
-    </message>
-    <message>
-      <source>Last 24 hours statistic</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <source>User</source>
       <translation>Utilizator</translation>
     </message>
@@ -4360,16 +4472,8 @@
       <translation>Vot pozitiv</translation>
     </message>
     <message>
-      <source>Number of Thumbs Up</source>
-      <translation>Numar de voturi pozitive</translation>
-    </message>
-    <message>
       <source>Thumbs down</source>
       <translation>Vot negativ</translation>
-    </message>
-    <message>
-      <source>Number of Thumbs Down</source>
-      <translation>Numar de voturi negative</translation>
     </message>
     <message>
       <source>Country</source>
@@ -4378,10 +4482,6 @@
     <message>
       <source>Chats</source>
       <translation>Discuții</translation>
-    </message>
-    <message>
-      <source>Number of chats by country</source>
-      <translation>Număr de discuții pe țară</translation>
     </message>
     <message>
       <source>Average in seconds</source>
@@ -4416,24 +4516,12 @@
       <translation>In asteptare</translation>
     </message>
     <message>
-      <source>Chats number by statuses</source>
-      <translation>Numar de discutii dupa status</translation>
-    </message>
-    <message>
       <source>Number</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Unanswered chats numbers</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <source>Time</source>
       <translation>Timp</translation>
-    </message>
-    <message>
-      <source>AVG wait time in seconds, max 10 mininutes</source>
-      <translation>Timp mediu de asteptare, maxim 10 minute</translation>
     </message>
     <message>
       <source>Visitors initiated</source>
@@ -4444,10 +4532,6 @@
       <translation>Proactive</translation>
     </message>
     <message>
-      <source>Proactive chats number vs visitors initiated</source>
-      <translation>NUmar de discutii Proactive vs numar de discutii initiate de vizitatori</translation>
-    </message>
-    <message>
       <source>Visitors</source>
       <translation>Vizitatori</translation>
     </message>
@@ -4456,48 +4540,8 @@
       <translation>System</translation>
     </message>
     <message>
-      <source>Messages types</source>
-      <translation>Tipuri de mesaje</translation>
-    </message>
-    <message>
-      <source>Number of chats per hour, average chat duration</source>
-      <translation>Numarul de chat-uri pe oră, durata medie a unui chat</translation>
-    </message>
-    <message>
-      <source>Hourly statistic</source>
-      <translation>Statistica orara</translation>
-    </message>
-    <message>
-      <source>Country statistic</source>
-      <translation>Statistica pe țări</translation>
-    </message>
-    <message>
-      <source>Users statisic</source>
-      <translation>Statistica utilizatori</translation>
-    </message>
-    <message>
-      <source>Number of chats by user</source>
-      <translation>Numar de conversatii ale utilizatorului</translation>
-    </message>
-    <message>
-      <source>Number of messages by user</source>
-      <translation>Numar de mesaje pe vizitator</translation>
-    </message>
-    <message>
-      <source>Average chat duration by user</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <source>All operators statistic will be downloaded</source>
       <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>AVG visitor wait time by operator</source>
-      <translation>Timp mediu de asteptare in functie de operator</translation>
-    </message>
-    <message>
-      <source>Last 24h statistic</source>
-      <translation>Statistica pentru ultimile 24 de ore</translation>
     </message>
     <message>
       <source>Parameter</source>
@@ -4510,46 +4554,6 @@
     <message>
       <source>Total chats</source>
       <translation>Totalul conversatiilor</translation>
-    </message>
-    <message>
-      <source>Total pending chats</source>
-      <translation>Totalul conversatiilor in asteptare</translation>
-    </message>
-    <message>
-      <source>Total active chats</source>
-      <translation>Totalul conversatiilor active</translation>
-    </message>
-    <message>
-      <source>Total closed chats</source>
-      <translation>Totalul conversatiilor inchise</translation>
-    </message>
-    <message>
-      <source>Unanswered chats</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Chatbox chats</source>
-      <translation>Conversatii in Chatbox</translation>
-    </message>
-    <message>
-      <source>Total messages (including visitors, system and operators messages)</source>
-      <translation>Total mesaje (inclusiv vizitatori, system si operatori)</translation>
-    </message>
-    <message>
-      <source>Total messages (only visitors)</source>
-      <translation>Total mesaje (doar vizitatori)</translation>
-    </message>
-    <message>
-      <source>Total messages (only system messages)</source>
-      <translation>Total mesaje (doar mesaje system)</translation>
-    </message>
-    <message>
-      <source>Total messages (only operators)</source>
-      <translation>Total mesaje (doar operatori)</translation>
-    </message>
-    <message>
-      <source>Operators statistic, top 100 by chats number</source>
-      <translation type="unfinished"/>
     </message>
     <message>
       <source>Total messages</source>
@@ -4566,6 +4570,126 @@
     <message>
       <source>ago</source>
       <translation>inainte</translation>
+    </message>
+    <message>
+      <source>Average chat duration by user</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>AVG visitor wait time by operator</source>
+      <translation>Timp mediu de asteptare in functie de operator</translation>
+    </message>
+    <message>
+      <source>AVG wait time in seconds, max 10 mininutes</source>
+      <translation>Timp mediu de asteptare, maxim 10 minute</translation>
+    </message>
+    <message>
+      <source>Chatbox chats</source>
+      <translation>Conversatii in Chatbox</translation>
+    </message>
+    <message>
+      <source>Chats number by statuses</source>
+      <translation>Numar de discutii dupa status</translation>
+    </message>
+    <message>
+      <source>Chats statistic</source>
+      <translation>Chats statistic</translation>
+    </message>
+    <message>
+      <source>Country statistic</source>
+      <translation>Statistica pe țări</translation>
+    </message>
+    <message>
+      <source>Hourly statistic</source>
+      <translation>Statistica orara</translation>
+    </message>
+    <message>
+      <source>Last 24h statistic</source>
+      <translation>Statistica pentru ultimile 24 de ore</translation>
+    </message>
+    <message>
+      <source>Messages types</source>
+      <translation>Tipuri de mesaje</translation>
+    </message>
+    <message>
+      <source>Number of chats by country</source>
+      <translation>Număr de discuții pe țară</translation>
+    </message>
+    <message>
+      <source>Number of chats by user</source>
+      <translation>Numar de conversatii ale utilizatorului</translation>
+    </message>
+    <message>
+      <source>Number of chats per hour, average chat duration</source>
+      <translation>Numarul de chat-uri pe oră, durata medie a unui chat</translation>
+    </message>
+    <message>
+      <source>Number of messages by user</source>
+      <translation>Numar de mesaje pe vizitator</translation>
+    </message>
+    <message>
+      <source>Number of Thumbs Down</source>
+      <translation>Numar de voturi negative</translation>
+    </message>
+    <message>
+      <source>Number of Thumbs Up</source>
+      <translation>Numar de voturi pozitive</translation>
+    </message>
+    <message>
+      <source>Operators statistic, top 100 by chats number</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Proactive chats number vs visitors initiated</source>
+      <translation>NUmar de discutii Proactive vs numar de discutii initiate de vizitatori</translation>
+    </message>
+    <message>
+      <source>Last 24 hours statistic</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Total statistic</source>
+      <translation>Statistici totale</translation>
+    </message>
+    <message>
+      <source>Total active chats</source>
+      <translation>Totalul conversatiilor active</translation>
+    </message>
+    <message>
+      <source>Total closed chats</source>
+      <translation>Totalul conversatiilor inchise</translation>
+    </message>
+    <message>
+      <source>Total messages (including visitors, system and operators messages)</source>
+      <translation>Total mesaje (inclusiv vizitatori, system si operatori)</translation>
+    </message>
+    <message>
+      <source>Total messages (only operators)</source>
+      <translation>Total mesaje (doar operatori)</translation>
+    </message>
+    <message>
+      <source>Total messages (only system messages)</source>
+      <translation>Total mesaje (doar mesaje system)</translation>
+    </message>
+    <message>
+      <source>Total messages (only visitors)</source>
+      <translation>Total mesaje (doar vizitatori)</translation>
+    </message>
+    <message>
+      <source>Total pending chats</source>
+      <translation>Totalul conversatiilor in asteptare</translation>
+    </message>
+    <message>
+      <source>Unanswered chats</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Unanswered chats numbers</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Users statisic</source>
+      <translation>Statistica utilizatori</translation>
     </message>
   </context>
   <context>
@@ -5177,6 +5301,10 @@
       <source>more information on how to use it</source>
       <translation>mai multe informatii despre utilizarea ei</translation>
     </message>
+    <message>
+      <source>Paid chat settings</source>
+      <translation type="unfinished"/>
+    </message>
   </context>
   <context>
     <name>chatbox/list</name>
@@ -5319,8 +5447,32 @@
   <context>
     <name>user/account</name>
     <message>
+      <source>Please enter a username!</source>
+      <translation>Te rog sa introduci un nume de utilizator</translation>
+    </message>
+    <message>
+      <source>User exists!</source>
+      <translation>Utilizatorul exista!</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Adresa de e-mail incorecta</translation>
+    </message>
+    <message>
+      <source>Please enter a name</source>
+      <translation>Te rog sa introduci un nume</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Parolele nu se potrivesc</translation>
+    </message>
+    <message>
       <source>Updated</source>
       <translation>Actualizat</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Actualizeaza</translation>
     </message>
     <message>
       <source>Updating...</source>
@@ -5387,6 +5539,10 @@
       <translation>E-mail</translation>
     </message>
     <message>
+      <source>Chat nickname</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Name</source>
       <translation>Nume</translation>
     </message>
@@ -5421,10 +5577,6 @@
     <message>
       <source>Delete</source>
       <translation>Sterge</translation>
-    </message>
-    <message>
-      <source>Update</source>
-      <translation>Actualizeaza</translation>
     </message>
     <message>
       <source>Return</source>
@@ -5473,26 +5625,6 @@
     <message>
       <source>Personal canned messages</source>
       <translation>Mesaje predefinite personale</translation>
-    </message>
-    <message>
-      <source>Please enter a username!</source>
-      <translation>Te rog sa introduci un nume de utilizator</translation>
-    </message>
-    <message>
-      <source>User exists!</source>
-      <translation>Utilizatorul exista!</translation>
-    </message>
-    <message>
-      <source>Wrong email address</source>
-      <translation>Adresa de e-mail incorecta</translation>
-    </message>
-    <message>
-      <source>Please enter a name</source>
-      <translation>Te rog sa introduci un nume</translation>
-    </message>
-    <message>
-      <source>Passwords mismatch</source>
-      <translation>Parolele nu se potrivesc</translation>
     </message>
   </context>
   <context>
@@ -6723,6 +6855,14 @@
   <context>
     <name>user/edit</name>
     <message>
+      <source>Please enter a name</source>
+      <translation>Te rog sa introduci un nume</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Parolele nu se potrivesc</translation>
+    </message>
+    <message>
       <source>Server default time zone</source>
       <translation>Fus orar standard al serverului</translation>
     </message>
@@ -6749,6 +6889,10 @@
     <message>
       <source>E-mail</source>
       <translation>E-mai</translation>
+    </message>
+    <message>
+      <source>Chat nickname</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Name</source>
@@ -6793,14 +6937,6 @@
     <message>
       <source>Invalid CSRF token!</source>
       <translation>Token CSRF invalid!</translation>
-    </message>
-    <message>
-      <source>Please enter a name</source>
-      <translation>Te rog sa introduci un nume</translation>
-    </message>
-    <message>
-      <source>Passwords mismatch</source>
-      <translation>Parolele nu se potrivesc</translation>
     </message>
     <message>
       <source>System configuration</source>
@@ -6860,6 +6996,10 @@
   <context>
     <name>theme/index</name>
     <message>
+      <source>Products</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Default theme</source>
       <translation>Tema implicita</translation>
     </message>
@@ -6874,6 +7014,10 @@
     <message>
       <source>Import a new theme</source>
       <translation>Importa o tema noua</translation>
+    </message>
+    <message>
+      <source>Rest API</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Themes</source>
@@ -6925,6 +7069,30 @@
   <context>
     <name>user/new</name>
     <message>
+      <source>Please choose a default user group</source>
+      <translation>Te rog sa alegi un grup de utilizatori standard</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Adresa de e-mail incorecta</translation>
+    </message>
+    <message>
+      <source>Please enter a name</source>
+      <translation>Te rog sa introduci un nume</translation>
+    </message>
+    <message>
+      <source>Please enter a username</source>
+      <translation>Te rog sa introduci un nume de utilizator</translation>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation>Utilizatorul exista deja</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Parolele nu se potrivesc</translation>
+    </message>
+    <message>
       <source>Invisible mode</source>
       <translation>Mod invizibil</translation>
     </message>
@@ -6973,6 +7141,10 @@
       <translation>Repeta parola</translation>
     </message>
     <message>
+      <source>Chat nickname</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Name</source>
       <translation>Nume</translation>
     </message>
@@ -6991,30 +7163,6 @@
     <message>
       <source>Departments</source>
       <translation>Departamente</translation>
-    </message>
-    <message>
-      <source>Please choose a default user group</source>
-      <translation>Te rog sa alegi un grup de utilizatori standard</translation>
-    </message>
-    <message>
-      <source>Wrong email address</source>
-      <translation>Adresa de e-mail incorecta</translation>
-    </message>
-    <message>
-      <source>Please enter a name</source>
-      <translation>Te rog sa introduci un nume</translation>
-    </message>
-    <message>
-      <source>Please enter a username</source>
-      <translation>Te rog sa introduci un nume de utilizator</translation>
-    </message>
-    <message>
-      <source>User exists</source>
-      <translation>Utilizatorul exista deja</translation>
-    </message>
-    <message>
-      <source>Passwords mismatch</source>
-      <translation>Parolele nu se potrivesc</translation>
     </message>
     <message>
       <source>System configuration</source>
@@ -7708,6 +7856,112 @@
     <message>
       <source>Please enter valid file type!</source>
       <translation>Te rog sa introduci un tip de fisier valid!</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhproduct/index</name>
+    <message>
+      <source>Products</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>abstract/product</name>
+    <message>
+      <source>Name</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Priority</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>API Key</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>user/validator</name>
+    <message>
+      <source>Please enter a username</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>User action type not set</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please enter a name</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please choose a default user group</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>paidchat/expiredchat</name>
+    <message>
+      <source>Chat</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Chat was closed.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Invalid hash</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Removed paid chat</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>paidchat/settings</name>
+    <message>
+      <source>Paid chat settings</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Enabled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>User can not access old chat if chat is closed</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Secret hash, used for verification</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lhrestapi/index</name>
+    <message>
+      <source>Rest API</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Rest API Keys</source>
+      <translation type="unfinished"/>
     </message>
   </context>
 </TS>

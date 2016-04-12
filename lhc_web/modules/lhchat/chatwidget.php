@@ -184,7 +184,7 @@ if ((string)$Params['user_parameters_unordered']['chatprefill'] != '') {
 $inputData->username = isset($_GET['prefill']['username']) ? (string)$_GET['prefill']['username'] : $inputData->username;
 $inputData->hash_resume = false;
 $inputData->vid = false;
-$inputData->question = isset($_GET['prefill']['question']) ? (string)$_GET['prefill']['question'] : $inputData->question;
+$inputData->question = isset($_GET['prefill']['question']) ? (string)$_GET['prefill']['question'] : (isset($_GET['prefillMsg']) ? (string)$_GET['prefillMsg'] : $inputData->question);
 $inputData->email = isset($_GET['prefill']['email']) ? (string)$_GET['prefill']['email'] : $inputData->email;
 $inputData->phone = isset($_GET['prefill']['phone']) ? (string)$_GET['prefill']['phone'] : $inputData->phone;
 $inputData->validate_start_chat = false;
@@ -264,9 +264,17 @@ if (isset($_POST['StartChat']) && $disabled_department === false)
    			exit('Chat not available in your country');
    		}
    		
-   		if ((isset($additionalParams['offline']) && $additionalParams['offline'] == true) || $statusGeoAdjustment['status'] == 'offline') {   			
-   			erLhcoreClassChatMail::sendMailRequest($inputData,$chat,array('chatprefill' => isset($chatPrefill) ? $chatPrefill : false));
-   			
+   		if ((isset($additionalParams['offline']) && $additionalParams['offline'] == true) || $statusGeoAdjustment['status'] == 'offline') {
+
+   		    $attributePresend = erLhcoreClassChatEventDispatcher::getInstance()->dispatch('chat.chat_offline_request_presend',array(
+   		        'input_data' => $inputData,
+   		        'chat' => $chat,
+   		        'prefill' => array('chatprefill' => isset($chatPrefill) ? $chatPrefill : false)));
+
+   		    if (!isset($attributePresend['status']) || $attributePresend['status'] !== erLhcoreClassChatEventDispatcher::STOP_WORKFLOW) {   		    
+   			     erLhcoreClassChatMail::sendMailRequest($inputData, $chat, array('chatprefill' => isset($chatPrefill) ? $chatPrefill : false));
+   		    }
+
    			if (isset($chatPrefill) && ($chatPrefill instanceof erLhcoreClassModelChat)) {
    				erLhcoreClassChatValidator::updateInitialChatAttributes($chatPrefill, $chat);
    			}
@@ -364,6 +372,9 @@ if (isset($_POST['StartChat']) && $disabled_department === false)
     	       		
     	       		erLhcoreClassChatEventDispatcher::getInstance()->dispatch('chat.auto_responder_triggered',array('chat' => & $chat));
     	       }
+	       } else {
+	           $chat->status_sub = erLhcoreClassModelChat::STATUS_SUB_START_ON_KEY_UP;
+	           $chat->saveThis();
 	       }
 	       
 	       erLhcoreClassChat::updateDepartmentStats($chat->department);

@@ -26,6 +26,38 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Product module is enabled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>How many days voting widget should not be expanded after last show</source>
       <translation>Сколько дней виджет голосования не будет открыт с последнего показа</translation>
     </message>
@@ -411,6 +443,10 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <source>Disabled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Name</source>
       <translation>Имя</translation>
     </message>
@@ -705,16 +741,16 @@
       <translation>включено</translation>
     </message>
     <message>
+      <source>Department</source>
+      <translation>Отдел</translation>
+    </message>
+    <message>
       <source>Language, leave empty for all. E.g lit, rus, ger etc...</source>
       <translation>Язык (оставьте пустым для использования всех языков). Например: lit, rus, get etc...</translation>
     </message>
     <message>
       <source>Position</source>
       <translation>Позиция</translation>
-    </message>
-    <message>
-      <source>Department</source>
-      <translation>Отдел</translation>
     </message>
     <message>
       <source>Wait message. Visible when users starts chat and is waiting for someone to accept a chat.</source>
@@ -1091,6 +1127,14 @@
       <translation>Отзыв после окончания чата</translation>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Show product selection based on selected departments</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Minimize action, applies only if status widget is at the bottom</source>
       <translation>Действие свернуть, применяется только если виджет находится внизу</translation>
     </message>
@@ -1157,6 +1201,18 @@
     <message>
       <source>System configuration</source>
       <translation>Настройки Системы</translation>
+    </message>
+    <message>
+      <source>Chat expired</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Invalid hash</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Chat was removed</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -1834,6 +1890,10 @@
       <translation>Департамент</translation>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Country</source>
       <translation>Страна</translation>
     </message>
@@ -2191,6 +2251,10 @@
       <translation>Последняя активность</translation>
     </message>
     <message>
+      <source>Sort</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Wait time</source>
       <translation>Время ожидания</translation>
     </message>
@@ -2387,6 +2451,14 @@
       <translation>Есть вопрос? Спросите у нас!</translation>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Choose a product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Type your message here and hit enter to send...</source>
       <translation>Введите здесь Ваше сообщение и нажмите Enter для отправки...</translation>
     </message>
@@ -2479,6 +2551,14 @@
       <translation>Неверный файл!</translation>
     </message>
     <message>
+      <source>Could not find a product!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please choose a product!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Please choose</source>
       <translation type="unfinished"/>
     </message>
@@ -2493,6 +2573,10 @@
     <message>
       <source>is required</source>
       <translation>обязательно</translation>
+    </message>
+    <message>
+      <source>Could not decrypt data!</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Your request was not processed as expected - but don&apos;t worry it was not your fault. Please re-submit your request. If you experience the same issue you will need to contact us via other means.</source>
@@ -3527,6 +3611,10 @@
       <translation>Управление</translation>
     </message>
     <message>
+      <source>Paid chat configuration</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Update information</source>
       <translation>Обновить информацию</translation>
     </message>
@@ -3535,8 +3623,16 @@
       <translation>Проактивные приглашения</translation>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Questionary embed code</source>
       <translation>Код для вставки анкеты</translation>
+    </message>
+    <message>
+      <source>Rest API</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Start chat form settings</source>
@@ -3854,6 +3950,10 @@
       <translation>Непрочитанные сообщения</translation>
     </message>
     <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Search</source>
       <translation>Поиск</translation>
     </message>
@@ -3876,6 +3976,10 @@
     <message>
       <source>Select user</source>
       <translation>Выбрать пользователя</translation>
+    </message>
+    <message>
+      <source>Select product</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Type to search</source>
@@ -3986,6 +4090,10 @@
     </message>
     <message>
       <source>Hide disabled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Department</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -4322,6 +4430,22 @@
       <translation>Высота начального сообщения пользователя в пикселях</translation>
     </message>
     <message>
+      <source>Encryption key, min length 40</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Additional encryption key, min length 40</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Minimum 40 characters for encryption key!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Minimum 40 characters for additional encryption key!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Please choose at least one field for a popup</source>
       <translation>Выберите хотя бы одно поле для popup</translation>
     </message>
@@ -4341,18 +4465,6 @@
       <translation>Статистика</translation>
     </message>
     <message>
-      <source>Chats statistic</source>
-      <translation>Статистика чатов</translation>
-    </message>
-    <message>
-      <source>Total statistic</source>
-      <translation>Общая статистика</translation>
-    </message>
-    <message>
-      <source>Last 24 hours statistic</source>
-      <translation>Статистика за 24 часа</translation>
-    </message>
-    <message>
       <source>User</source>
       <translation>Пользователь</translation>
     </message>
@@ -4361,16 +4473,8 @@
       <translation>Хорошо</translation>
     </message>
     <message>
-      <source>Number of Thumbs Up</source>
-      <translation>Количество &quot;лайков&quot;</translation>
-    </message>
-    <message>
       <source>Thumbs down</source>
       <translation>Плохо</translation>
-    </message>
-    <message>
-      <source>Number of Thumbs Down</source>
-      <translation>Количество &quot;дислайков&quot;</translation>
     </message>
     <message>
       <source>Country</source>
@@ -4379,10 +4483,6 @@
     <message>
       <source>Chats</source>
       <translation>Чаты</translation>
-    </message>
-    <message>
-      <source>Number of chats by country</source>
-      <translation>Количество чатов по стране</translation>
     </message>
     <message>
       <source>Average in seconds</source>
@@ -4417,24 +4517,12 @@
       <translation>В ожидании</translation>
     </message>
     <message>
-      <source>Chats number by statuses</source>
-      <translation>Количество чатов по статусам</translation>
-    </message>
-    <message>
       <source>Number</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Unanswered chats numbers</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <source>Time</source>
       <translation>Время</translation>
-    </message>
-    <message>
-      <source>AVG wait time in seconds, max 10 mininutes</source>
-      <translation>Ср. время ожидания в сек., макс. 10 минут</translation>
     </message>
     <message>
       <source>Visitors initiated</source>
@@ -4445,10 +4533,6 @@
       <translation>Проактивный</translation>
     </message>
     <message>
-      <source>Proactive chats number vs visitors initiated</source>
-      <translation>Количество чатов против количества посетителей</translation>
-    </message>
-    <message>
       <source>Visitors</source>
       <translation>Посетители</translation>
     </message>
@@ -4457,48 +4541,8 @@
       <translation>Система</translation>
     </message>
     <message>
-      <source>Messages types</source>
-      <translation>Типы сообщений</translation>
-    </message>
-    <message>
-      <source>Number of chats per hour, average chat duration</source>
-      <translation>Количество чатов в час, средняя продолжительность чата</translation>
-    </message>
-    <message>
-      <source>Hourly statistic</source>
-      <translation>Почасовая статистика</translation>
-    </message>
-    <message>
-      <source>Country statistic</source>
-      <translation>Статистика Стран</translation>
-    </message>
-    <message>
-      <source>Users statisic</source>
-      <translation>Статистика пользователей</translation>
-    </message>
-    <message>
-      <source>Number of chats by user</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Number of messages by user</source>
-      <translation>Количество сообщений пользователей</translation>
-    </message>
-    <message>
-      <source>Average chat duration by user</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <source>All operators statistic will be downloaded</source>
       <translation>Статистика всех операторов загружена</translation>
-    </message>
-    <message>
-      <source>AVG visitor wait time by operator</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Last 24h statistic</source>
-      <translation>Статистика за 24 часа</translation>
     </message>
     <message>
       <source>Parameter</source>
@@ -4511,46 +4555,6 @@
     <message>
       <source>Total chats</source>
       <translation>Всего чатов</translation>
-    </message>
-    <message>
-      <source>Total pending chats</source>
-      <translation>Всего ожидающих чатов</translation>
-    </message>
-    <message>
-      <source>Total active chats</source>
-      <translation>Активные чаты</translation>
-    </message>
-    <message>
-      <source>Total closed chats</source>
-      <translation>Всего завершенных чатов</translation>
-    </message>
-    <message>
-      <source>Unanswered chats</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <source>Chatbox chats</source>
-      <translation>Комнаты чатов</translation>
-    </message>
-    <message>
-      <source>Total messages (including visitors, system and operators messages)</source>
-      <translation>Всего сообщений (включая посетителей, сообщения системы и администратора)</translation>
-    </message>
-    <message>
-      <source>Total messages (only visitors)</source>
-      <translation>Все сообщения (от посетителей)</translation>
-    </message>
-    <message>
-      <source>Total messages (only system messages)</source>
-      <translation>Все сообщения (только системные)</translation>
-    </message>
-    <message>
-      <source>Total messages (only operators)</source>
-      <translation>Все сообщения (только операторы)</translation>
-    </message>
-    <message>
-      <source>Operators statistic, top 100 by chats number</source>
-      <translation>Статистика по операторам за сутки. Лучшие 100 по количеству чатов</translation>
     </message>
     <message>
       <source>Total messages</source>
@@ -4567,6 +4571,126 @@
     <message>
       <source>ago</source>
       <translation>назад</translation>
+    </message>
+    <message>
+      <source>Average chat duration by user</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>AVG visitor wait time by operator</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>AVG wait time in seconds, max 10 mininutes</source>
+      <translation>Ср. время ожидания в сек., макс. 10 минут</translation>
+    </message>
+    <message>
+      <source>Chatbox chats</source>
+      <translation>Комнаты чатов</translation>
+    </message>
+    <message>
+      <source>Chats number by statuses</source>
+      <translation>Количество чатов по статусам</translation>
+    </message>
+    <message>
+      <source>Chats statistic</source>
+      <translation>Статистика чатов</translation>
+    </message>
+    <message>
+      <source>Country statistic</source>
+      <translation>Статистика Стран</translation>
+    </message>
+    <message>
+      <source>Hourly statistic</source>
+      <translation>Почасовая статистика</translation>
+    </message>
+    <message>
+      <source>Last 24h statistic</source>
+      <translation>Статистика за 24 часа</translation>
+    </message>
+    <message>
+      <source>Messages types</source>
+      <translation>Типы сообщений</translation>
+    </message>
+    <message>
+      <source>Number of chats by country</source>
+      <translation>Количество чатов по стране</translation>
+    </message>
+    <message>
+      <source>Number of chats by user</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Number of chats per hour, average chat duration</source>
+      <translation>Количество чатов в час, средняя продолжительность чата</translation>
+    </message>
+    <message>
+      <source>Number of messages by user</source>
+      <translation>Количество сообщений пользователей</translation>
+    </message>
+    <message>
+      <source>Number of Thumbs Down</source>
+      <translation>Количество &quot;дислайков&quot;</translation>
+    </message>
+    <message>
+      <source>Number of Thumbs Up</source>
+      <translation>Количество &quot;лайков&quot;</translation>
+    </message>
+    <message>
+      <source>Operators statistic, top 100 by chats number</source>
+      <translation>Статистика по операторам за сутки. Лучшие 100 по количеству чатов</translation>
+    </message>
+    <message>
+      <source>Proactive chats number vs visitors initiated</source>
+      <translation>Количество чатов против количества посетителей</translation>
+    </message>
+    <message>
+      <source>Last 24 hours statistic</source>
+      <translation>Статистика за 24 часа</translation>
+    </message>
+    <message>
+      <source>Total statistic</source>
+      <translation>Общая статистика</translation>
+    </message>
+    <message>
+      <source>Total active chats</source>
+      <translation>Активные чаты</translation>
+    </message>
+    <message>
+      <source>Total closed chats</source>
+      <translation>Всего завершенных чатов</translation>
+    </message>
+    <message>
+      <source>Total messages (including visitors, system and operators messages)</source>
+      <translation>Всего сообщений (включая посетителей, сообщения системы и администратора)</translation>
+    </message>
+    <message>
+      <source>Total messages (only operators)</source>
+      <translation>Все сообщения (только операторы)</translation>
+    </message>
+    <message>
+      <source>Total messages (only system messages)</source>
+      <translation>Все сообщения (только системные)</translation>
+    </message>
+    <message>
+      <source>Total messages (only visitors)</source>
+      <translation>Все сообщения (от посетителей)</translation>
+    </message>
+    <message>
+      <source>Total pending chats</source>
+      <translation>Всего ожидающих чатов</translation>
+    </message>
+    <message>
+      <source>Unanswered chats</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Unanswered chats numbers</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Users statisic</source>
+      <translation>Статистика пользователей</translation>
     </message>
   </context>
   <context>
@@ -5178,6 +5302,10 @@
       <source>more information on how to use it</source>
       <translation>Подробная информация о том как это использовать</translation>
     </message>
+    <message>
+      <source>Paid chat settings</source>
+      <translation type="unfinished"/>
+    </message>
   </context>
   <context>
     <name>chatbox/list</name>
@@ -5320,8 +5448,32 @@
   <context>
     <name>user/account</name>
     <message>
+      <source>Please enter a username!</source>
+      <translation>Пожалуйста, введите имя пользователя</translation>
+    </message>
+    <message>
+      <source>User exists!</source>
+      <translation>Пользователь существует!</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>неправильный e-mail адрес</translation>
+    </message>
+    <message>
+      <source>Please enter a name</source>
+      <translation>Введите имя</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Неверный пароль</translation>
+    </message>
+    <message>
       <source>Updated</source>
       <translation>Обновлен</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Обновить</translation>
     </message>
     <message>
       <source>Updating...</source>
@@ -5388,6 +5540,10 @@
       <translation>E-mail</translation>
     </message>
     <message>
+      <source>Chat nickname</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Name</source>
       <translation>Имя</translation>
     </message>
@@ -5422,10 +5578,6 @@
     <message>
       <source>Delete</source>
       <translation>Удалить</translation>
-    </message>
-    <message>
-      <source>Update</source>
-      <translation>Обновить</translation>
     </message>
     <message>
       <source>Return</source>
@@ -5474,26 +5626,6 @@
     <message>
       <source>Personal canned messages</source>
       <translation>Персональные шаблоны сообщений</translation>
-    </message>
-    <message>
-      <source>Please enter a username!</source>
-      <translation>Пожалуйста, введите имя пользователя</translation>
-    </message>
-    <message>
-      <source>User exists!</source>
-      <translation>Пользователь существует!</translation>
-    </message>
-    <message>
-      <source>Wrong email address</source>
-      <translation>неправильный e-mail адрес</translation>
-    </message>
-    <message>
-      <source>Please enter a name</source>
-      <translation>Введите имя</translation>
-    </message>
-    <message>
-      <source>Passwords mismatch</source>
-      <translation>Неверный пароль</translation>
     </message>
   </context>
   <context>
@@ -6724,6 +6856,14 @@
   <context>
     <name>user/edit</name>
     <message>
+      <source>Please enter a name</source>
+      <translation>Введите имя</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Неверный пароль</translation>
+    </message>
+    <message>
       <source>Server default time zone</source>
       <translation>Часовой пояс сервера по умолчанию</translation>
     </message>
@@ -6750,6 +6890,10 @@
     <message>
       <source>E-mail</source>
       <translation>E-Mail</translation>
+    </message>
+    <message>
+      <source>Chat nickname</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Name</source>
@@ -6794,14 +6938,6 @@
     <message>
       <source>Invalid CSRF token!</source>
       <translation>Неверный CSRF токен!</translation>
-    </message>
-    <message>
-      <source>Please enter a name</source>
-      <translation>Введите имя</translation>
-    </message>
-    <message>
-      <source>Passwords mismatch</source>
-      <translation>Неверный пароль</translation>
     </message>
     <message>
       <source>System configuration</source>
@@ -6861,6 +6997,10 @@
   <context>
     <name>theme/index</name>
     <message>
+      <source>Products</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Default theme</source>
       <translation>Тема по умолчанию</translation>
     </message>
@@ -6875,6 +7015,10 @@
     <message>
       <source>Import a new theme</source>
       <translation>Импорт новой темы</translation>
+    </message>
+    <message>
+      <source>Rest API</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Themes</source>
@@ -6926,6 +7070,30 @@
   <context>
     <name>user/new</name>
     <message>
+      <source>Please choose a default user group</source>
+      <translation>Выберите группу пользователей по умолчанию</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Неправильный e-mail адрес</translation>
+    </message>
+    <message>
+      <source>Please enter a name</source>
+      <translation>Введите имя</translation>
+    </message>
+    <message>
+      <source>Please enter a username</source>
+      <translation>Введите имя пользователя</translation>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation>Такой пользователь уже существует</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Неверный пароль</translation>
+    </message>
+    <message>
       <source>Invisible mode</source>
       <translation>Режим невидимки</translation>
     </message>
@@ -6974,6 +7142,10 @@
       <translation>Повторите новый пароль</translation>
     </message>
     <message>
+      <source>Chat nickname</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>Name</source>
       <translation>Имя</translation>
     </message>
@@ -6992,30 +7164,6 @@
     <message>
       <source>Departments</source>
       <translation>Департамент</translation>
-    </message>
-    <message>
-      <source>Please choose a default user group</source>
-      <translation>Выберите группу пользователей по умолчанию</translation>
-    </message>
-    <message>
-      <source>Wrong email address</source>
-      <translation>Неправильный e-mail адрес</translation>
-    </message>
-    <message>
-      <source>Please enter a name</source>
-      <translation>Введите имя</translation>
-    </message>
-    <message>
-      <source>Please enter a username</source>
-      <translation>Введите имя пользователя</translation>
-    </message>
-    <message>
-      <source>User exists</source>
-      <translation>Такой пользователь уже существует</translation>
-    </message>
-    <message>
-      <source>Passwords mismatch</source>
-      <translation>Неверный пароль</translation>
     </message>
     <message>
       <source>System configuration</source>
@@ -7709,6 +7857,112 @@
     <message>
       <source>Please enter valid file type!</source>
       <translation>Пожалуйста, введите правильный тип файла</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhproduct/index</name>
+    <message>
+      <source>Products</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>abstract/product</name>
+    <message>
+      <source>Name</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Priority</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Product</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>API Key</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>user/validator</name>
+    <message>
+      <source>Please enter a username</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>User action type not set</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please enter a name</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please choose a default user group</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>paidchat/expiredchat</name>
+    <message>
+      <source>Chat</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Chat was closed.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Invalid hash</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Removed paid chat</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>paidchat/settings</name>
+    <message>
+      <source>Paid chat settings</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Enabled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>User can not access old chat if chat is closed</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Secret hash, used for verification</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
+    <name>lhrestapi/index</name>
+    <message>
+      <source>Rest API</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Rest API Keys</source>
+      <translation type="unfinished"/>
     </message>
   </context>
 </TS>
